@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Hugo Content Adapters Test
 theme: ananke
 
-summarylength: 100
+summarylength: 80
