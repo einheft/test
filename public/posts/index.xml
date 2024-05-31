@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo Content Adapters Test</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Hugo Content Adapters Test</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 May 2024 22:40:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 1 Automatic summary </title>
-      <link>http://localhost:1313/posts/post-1-automatic-summary-/</link>
+      <link>https://example.org/posts/post-1-automatic-summary-/</link>
       <pubDate>Thu, 30 May 2024 22:40:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-1-automatic-summary-/</guid>
+      <guid>https://example.org/posts/post-1-automatic-summary-/</guid>
       <description>Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.&#xA;Laudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat. Ex melius vivendo per, ei vix sumo audiam corpora. Pro nostro maiorum inciderint ea, saepe placerat expetenda at qui.</description>
     </item>
     <item>
       <title>Post 2 Manual summary</title>
-      <link>http://localhost:1313/posts/post-2-manual-summary/</link>
+      <link>https://example.org/posts/post-2-manual-summary/</link>
       <pubDate>Thu, 30 May 2024 22:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-2-manual-summary/</guid>
+      <guid>https://example.org/posts/post-2-manual-summary/</guid>
       <description>Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.&#xA;Laudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat. Ex melius vivendo per, ei vix sumo audiam corpora. Pro nostro maiorum inciderint ea, saepe placerat expetenda at qui.</description>
     </item>
     <item>
       <title>Post 3 Front matter summary</title>
-      <link>http://localhost:1313/posts/post-3-front-matter-summary/</link>
+      <link>https://example.org/posts/post-3-front-matter-summary/</link>
       <pubDate>Thu, 30 May 2024 22:20:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-3-front-matter-summary/</guid>
+      <guid>https://example.org/posts/post-3-front-matter-summary/</guid>
       <description>Lorem ipsum dolor sit amet, usu cu atqui sensibus.</description>
     </item>
     <item>
       <title>Post 4 Automatic summary with shortcode</title>
-      <link>http://localhost:1313/posts/post-4-automatic-summary-with-shortcode/</link>
+      <link>https://example.org/posts/post-4-automatic-summary-with-shortcode/</link>
       <pubDate>Thu, 30 May 2024 22:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-4-automatic-summary-with-shortcode/</guid>
+      <guid>https://example.org/posts/post-4-automatic-summary-with-shortcode/</guid>
       <description>Next Hugo will bring live reload of resources loaded with resources.GetRemote ... pic.twitter.com/fYBiEewt1f&#xA;&amp;mdash; GoHugo.io (@gohugoiov2) May 19, 2024 Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.&#xA;Laudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat.</description>
     </item>
   </channel>

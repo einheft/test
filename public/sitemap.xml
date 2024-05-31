@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/post-1-automatic-summary-/</loc>
+    <loc>https://example.org/posts/post-1-automatic-summary-/</loc>
     <lastmod>2024-05-30T22:40:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/post-2-manual-summary/</loc>
+    <loc>https://example.org/posts/post-2-manual-summary/</loc>
     <lastmod>2024-05-30T22:30:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/post-3-front-matter-summary/</loc>
+    <loc>https://example.org/posts/post-3-front-matter-summary/</loc>
     <lastmod>2024-05-30T22:20:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/post-4-automatic-summary-with-shortcode/</loc>
+    <loc>https://example.org/posts/post-4-automatic-summary-with-shortcode/</loc>
     <lastmod>2024-05-30T22:10:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2024-05-14T13:11:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-05-05T12:07:31-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
