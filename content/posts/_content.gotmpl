@@ -1,0 +1,22 @@
+{{ range .Site.Data.posts }}
+  {{ $content := dict
+    "mediaType" "text/markdown"
+    "value" .content
+  }}
+  {{ $dates := dict
+    "date" (time.AsTime .date)
+  }}
+  {{ $params := dict
+    "tags" .tags
+  }}
+  {{ $page := dict
+    "content" $content
+    "dates" $dates
+    "kind" "page"
+    "params" $params
+    "path" .title
+    "title" .title
+    "summary" .summary
+  }}
+  {{ $.AddPage $page }}
+{{ end }}

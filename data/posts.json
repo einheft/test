@@ -1,0 +1,28 @@
+[
+	{
+		"title": "Post 1 Automatic summary ",
+		"content": "Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.\n\nLaudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat. Ex melius vivendo per, ei vix sumo audiam corpora. Pro nostro maiorum inciderint ea, saepe placerat expetenda at qui.\n\nDolorem reprehendunt ut est, sed ne aperiam praesent disputationi. Minim invidunt vis id. Pri ne tota solum, hendrerit dissentiet ad cum. Quod melius perpetua ex vim.",
+		"date": "2024-05-30T22:40:00"
+	},
+	{
+		"title": "Post 2 Manual summary",
+		"content": "Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. <!--more-->Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.\n\nLaudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat. Ex melius vivendo per, ei vix sumo audiam corpora. Pro nostro maiorum inciderint ea, saepe placerat expetenda at qui.\n\nDolorem reprehendunt ut est, sed ne aperiam praesent disputationi. Minim invidunt vis id. Pri ne tota solum, hendrerit dissentiet ad cum. Quod melius perpetua ex vim.",
+		"date": "2024-05-30T22:30:00"
+	},
+	{
+		"title": "Post 3 Front matter summary",
+		"summary": "Lorem ipsum dolor sit amet, usu cu atqui sensibus.",
+		"content": "Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.\n\nLaudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat. Ex melius vivendo per, ei vix sumo audiam corpora. Pro nostro maiorum inciderint ea, saepe placerat expetenda at qui.\n\nDolorem reprehendunt ut est, sed ne aperiam praesent disputationi. Minim invidunt vis id. Pri ne tota solum, hendrerit dissentiet ad cum. Quod melius perpetua ex vim.",
+		"date": "2024-05-30T22:20:00"
+	},
+	{
+		"title": "Post 4 Automatic summary with shortcode",
+		"content": "{{< twitter user=\"gohugoiov2\" id=\"1792275723438133434\" >}} Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.\n\nLaudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat. Ex melius vivendo per, ei vix sumo audiam corpora. Pro nostro maiorum inciderint ea, saepe placerat expetenda at qui.\n\nDolorem reprehendunt ut est, sed ne aperiam praesent disputationi. Minim invidunt vis id. Pri ne tota solum, hendrerit dissentiet ad cum. Quod melius perpetua ex vim.",
+		"date": "2024-05-30T22:10:00"
+	},
+	{
+		"title": "Post 5",
+		"content": "Lorem ipsum dolor sit amet, usu cu atqui sensibus. Tantas graece eloquentiam ne ius. Cu vitae graeco essent usu. Tation admodum torquatos an per. No sea fabulas molestie reformidans. Nec ea possim equidem officiis, mei detraxit accusata cu. Animal urbanitas vix ei, solum facilis ne ius.\n\nLaudem vocent nam ei, ex quis graecis his. Cu saepe facete accusam vis, at nonumes splendide est, est eu corpora intellegebat. Ex melius vivendo per, ei vix sumo audiam corpora. Pro nostro maiorum inciderint ea, saepe placerat expetenda at qui.\n\nDolorem reprehendunt ut est, sed ne aperiam praesent disputationi. Minim invidunt vis id. Pri ne tota solum, hendrerit dissentiet ad cum. Quod melius perpetua ex vim.",
+		"date": "2024-05-30T22:00:00"
+	}
+]
